@@ -1,2 +1,1 @@
-# hopr-contracts
-HOPR payment channel implementation on Ethereum
+### This project moved to https://github.com/hoprnet
